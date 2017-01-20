@@ -1,0 +1,19 @@
+body{
+	background: rgb(242,22,67);
+	color: white;
+	
+}
+	
+header {
+	text-align: center;
+      background: url("https://cdn.pixabay.com/photo/2016/10/11/21/43/banner-1732847_960_720.jpg");
+      background-size: cover;
+      color: white;
+}
+a{
+	color:rgb(22,20,26)
+}
+ .top {
+      display: inline;
+      padding: 0px 10px 0px 10px;
+ }
