@@ -23,9 +23,9 @@ color: rgb(210,210,210)
 h2{
 color:rgb(210,210,210)
 }
-article {
-      max-width: 500px;
-      padding: 20px;
-      margin: 0 auto;
-    }
 
+article{
+	max-width:500px;
+	padding: 20px;
+	margin: 0 auto
+}
