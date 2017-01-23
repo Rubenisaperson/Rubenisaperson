@@ -28,3 +28,8 @@ article {
       padding: 20px;
       margin: 0 auto;
     }
+ img {
+      margin: 40px 0px 0px 0px;
+      border: 7px solid white;
+      border-radius: 20px;
+    }
